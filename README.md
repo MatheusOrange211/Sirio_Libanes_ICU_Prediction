@@ -1,4 +1,4 @@
-# Sirio_Libanes_ICU_Prediction
+# Sirio Libanês ICU Prediction
 Predição de UTI's necessárias para pacientes internados com COVID-19 no Hospital Sírio Libanês
 
 <img src="https://github.com/MatheusOrange211/Sirio_Libanes_ICU_Prediction/raw/main/image/image_banner.jpg">
